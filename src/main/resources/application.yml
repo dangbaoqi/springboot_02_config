@@ -1,0 +1,15 @@
+server:
+  port: 8081
+
+person:
+  name: likui
+  age: 100
+  boss: false
+  birth: 1996/2/10
+  maps: {k1: v1,k2: v2,k3: v3}
+  lists:
+    - 啊哈
+    - 呵呵
+  dog:
+    name: xiaobai
+    age: 5
